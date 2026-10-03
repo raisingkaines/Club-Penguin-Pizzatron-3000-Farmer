@@ -60,7 +60,7 @@ Choose one of:
 
 ```text
 Launch Bot.bat
-Pizzatron3000Bot-salemcorpse-fast.exe
+Pizzatron3000Bot-Windows.exe
 python gui.py
 python pizza_bot.py
 ```
